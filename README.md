@@ -1,3 +1,3 @@
 # Tic-Tac-Toe
 
-This is tic-tac-toe game in python
+This is a tic-tac-toe game in python
